@@ -1,0 +1,13 @@
+How can i import and export in javascript ?
+
+-- To import and export Stuff in js we use the following syntax...
+
+to Export -
+
+module.exports = (variable name 1);
+
+to import -
+
+(variable name 2) = require('Path of the js file from where you are exporting');
+
+variable name 1 and variable name 2 can be same or different according to your need...
